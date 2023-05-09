@@ -4,6 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Game from '../../assets/logo1.jpg'
+import Pdf from '../../assets/flappy.pdf'
 import './Header.css'
 
 const Header = () => {
@@ -20,6 +21,7 @@ const Header = () => {
             Flappy Bird Game 
         </h1>
         <h2 className='main-h1'>Using React.js</h2>
+        <a href={Pdf} download className='btn main-h2'>Downoad Pdf</a>
         <a href={Game} download className='btn main-h2'>Downoad Game</a>
         </Col>
       </Row>

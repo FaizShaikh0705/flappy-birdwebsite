@@ -7,13 +7,14 @@ import './TableContent.css'
 const TableContent = () => {
   return (
     <>
-    <section>
+    <section className='Table-sec'>
     <div className="border border-3 border-primary"></div>
     <div className='T1'>
         <h1>
         TABLE OF CONTENTS
         </h1>
     </div>
+    <br></br>
     <Container className='T2'>
       <Row>
         <Col xs lg="3">

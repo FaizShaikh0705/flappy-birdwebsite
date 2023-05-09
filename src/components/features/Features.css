@@ -1,5 +1,11 @@
 .F1{
     justify-content: center;
     margin-top: 20px;
-    margin-left: 550px;
+    margin-left: 620px;
+}
+
+.features-sec{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    color: var(--color-primary);
 }
