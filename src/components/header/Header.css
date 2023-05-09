@@ -12,12 +12,12 @@
 }
 
 .main-head{
-    margin-top: 120px;
+    margin-top: 120px !important;
     margin-left: 40px;
 }
 
 .main-h1{
-    margin-left: 40px;
+    margin-left: 40px !important;
 }
 
 .main-h2{

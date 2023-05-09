@@ -1,4 +1,4 @@
-.header11{
+.about11{
     margin-top: 120px;
     margin-bottom: 50px;
 }
@@ -9,14 +9,14 @@
 }
 
 
-.main-h1{
+.main-a1{
     /* margin-right: 0px !important; */
-    margin-left: 0px;
+    margin-left: 0px !important;
 }
 
-.main-head{
-    margin-top: 20px;
-    /* margin-left: 40px; */
+.main-about{
+    margin-top: 20px !important;
+    margin-left: 0px !important;
 }
 
 .about-gif{

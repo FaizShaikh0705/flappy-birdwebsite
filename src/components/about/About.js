@@ -11,13 +11,13 @@ const About = () => {
    <section className='about-sec'>
    <div className="border border-3 border-primary"></div>
 
-   <Container className='header11'>
+   <Container className='about11'>
       <Row>
         <Col>
-        <h1 className='main-head'>
+        <h1 className='main-about'>
         ABOUT THE  
         </h1>
-        <h2 className='main-h1'>PROJECT</h2>
+        <h2 className='main-a1'>PROJECT</h2>
         <p>
         Flappy Bird is a popular mobile game, whose goal is to let birds pass more columns by clicking the screen to fly for some height. It’s an easy game to play because the only two actions for players are to let the bird fly or do nothing (let the bird drop by itself).
         </p>

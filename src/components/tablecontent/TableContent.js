@@ -8,13 +8,12 @@ const TableContent = () => {
   return (
     <>
     <section>
+    <div className="border border-3 border-primary"></div>
     <div className='T1'>
         <h1>
         TABLE OF CONTENTS
         </h1>
     </div>
-    <div className="border border-3 border-primary"></div>
-    
     <Container className='T2'>
       <Row>
         <Col xs lg="3">
@@ -22,10 +21,8 @@ const TableContent = () => {
          <h5>Introduction to FLAPPY BIRD</h5>
         </Col>
         <Col md="auto"><h1  className='T3'>01</h1></Col>
-
         <Col xs lg="3">
         </Col>
-        
         <Col md="auto"><h1  className='T3'></h1></Col>
         <Col md="auto"><h1  className='T3'>04</h1></Col>
         <Col xs lg="4">
@@ -41,10 +38,8 @@ const TableContent = () => {
          <h5>Issue addressed to the game</h5>
         </Col>
         <Col md="auto"><h1  className='T3'>02</h1></Col>
-
         <Col xs lg="3">
         </Col>
-        
         <Col md="auto"><h1  className='T3'></h1></Col>
         <Col md="auto"><h1  className='T4'>05</h1></Col>
         <Col xs lg="3">
@@ -53,8 +48,6 @@ const TableContent = () => {
         </Col>
       </Row>
       </Container>
-
-
       <Container className='T2'>
       <Row>
         <Col xs lg="3">
@@ -62,10 +55,8 @@ const TableContent = () => {
          <h5>Project goals</h5>
         </Col>
         <Col md="auto"><h1  className='T3'>03</h1></Col>
-
         <Col xs lg="3">
         </Col>
-        
         <Col md="auto"><h1  className='T3'></h1></Col>
         <Col md="auto"><h1  className='T4'>06</h1></Col>
         <Col xs lg="3">
