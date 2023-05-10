@@ -1,9 +1,10 @@
+import React from 'react'
 import Topbar from './components/topbar/Topbar'
 import './App.css';
 import Header from './components/header/Header';
 import TableContent from './components/tablecontent/TableContent';
 import About from './components/about/About';
-import Obj from './components/obj/Obj';
+import Obj from './components/object/Object';
 import Features from './components/features/Features';
 import Pro from './components/pro/Pro';
 import Play from './components/play/Play';
