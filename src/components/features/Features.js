@@ -36,7 +36,13 @@ const Features = () => {
                                 <li>
                                     <h3>During the game over screen, the player is awarded a bronze medal if they reached ten or more points, a silver medal from twenty points, a gold medal from thirty points, and a platinum medal from forty points</h3>
                                 </li>
+                                <li>
+                                   <h3>We have Applied Our Logic To Create New feature for this game
+                                   <a href="https://flappybird-mod.netlify.app/" className='btn main-h2'>Play Game</a>
+                                   </h3>
+                                </li>
                             </ul>
+
                         </Col>
                     </Row>
                 </Container>

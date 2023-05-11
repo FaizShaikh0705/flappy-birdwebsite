@@ -2,6 +2,7 @@ import React from 'react'
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Game from '../../assets/Game.zip'
 
 const Play = () => {
     return (
@@ -12,7 +13,7 @@ const Play = () => {
             <Container className='Play11'>
                 <Row>
                     <Col>
-                    <a href="#" download className='btn main-play'>Play Game</a>
+                    <a href={Game} download className='btn main-play'>Download Game</a>
                     </Col>
                     <Col><h3>
                     Click the button to play the flappy bird game
